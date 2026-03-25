@@ -1,0 +1,6 @@
+[submodule "awesome-project"]
+	path = awesome-project
+	url = https://github.com/Mirkano/awesome-project
+[submodule "vendor/awesome-module"]
+	path = vendor/awesome-module
+	url = https://github.com/Mirkano/awesome-project
